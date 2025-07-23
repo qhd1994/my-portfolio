@@ -1,0 +1,45 @@
+[
+    {
+        "id": "project-1",
+        "title": "[프로젝트 1 제목]",
+        "subtitle": "간단한 프로젝트 요약",
+        "main_image": "/images/projects/project1-main.png",
+        "period": "20XX.XX - 20YY.YY",
+        "description": "이 프로젝트는 [어떤 문제]를 해결하기 위해 개발되었습니다. 주요 기능은 [기능1], [기능2] 등입니다.",
+        "tech_stack": ["Next.js", "React", "TypeScript", "Tailwind CSS", "MUI", "Firebase"],
+        "github_link": "https://github.com/your-username/project-1-repo",
+        "deploy_link": "https://project1.vercel.app",
+        "detailed_images": [
+        { "src": "/images/projects/project1-detail1.png", "alt": "프로젝트 1 상세 이미지 1" },
+        { "src": "/images/projects/project1-detail2.png", "alt": "프로젝트 1 상세 이미지 2" }
+        ],
+        "features": [
+        "사용자 인증 및 관리 기능 구현",
+        "실시간 데이터 동기화를 위한 WebSocket 연동",
+        "반응형 웹 디자인으로 모바일 지원"
+        ],
+        "challenges": [
+        {
+            "title": "데이터 동기화 문제 해결",
+            "description": "서버와 클라이언트 간의 데이터 불일치 문제를 해결하기 위해 [해결책]을 도입했습니다."
+        }
+        ]
+    },
+    {
+        "id": "project-2",
+        "title": "[프로젝트 2 제목]",
+        "subtitle": "또 다른 흥미로운 프로젝트",
+        "main_image": "/images/projects/project2-main.png",
+        "period": "20XX.XX - 20YY.YY",
+        "description": "이 프로젝트는 [어떤 목적]을 가지고 개발되었습니다. [핵심 기능]에 중점을 두었습니다.",
+        "tech_stack": ["React", "JavaScript", "Styled-components", "Node.js", "Express"],
+        "github_link": "https://github.com/your-username/project-2-repo",
+        "deploy_link": null,
+        "detailed_images": [],
+        "features": [
+        "RESTful API 연동",
+        "컴포넌트 기반 UI 개발"
+        ],
+        "challenges": []
+    }
+]
